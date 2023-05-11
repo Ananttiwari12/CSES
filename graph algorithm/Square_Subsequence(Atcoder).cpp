@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 #define endl "\n"
 using namespace std;
-#define mod 1000000007
+#define mod 998244353
 #define int long long
 
 int32_t main(){
@@ -9,7 +9,18 @@ int32_t main(){
     cin.tie(NULL);
     cout.tie(NULL);
 
-    int n; cin>>n;
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+    #endif
+
+    string s;
+    cin>>s;
+
+    
+
+
+    
 
     
     
